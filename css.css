@@ -1,0 +1,12 @@
+body, .jumbotron  { padding: 30px; }
+
+.text-giant { font-size: 40px; }
+
+.btn-crazy {
+	text-align: center;
+	position: absolute;
+	top: 30px;
+	left: 40px;
+	width: 20%;
+	transition: 0.4s ease all;
+}
